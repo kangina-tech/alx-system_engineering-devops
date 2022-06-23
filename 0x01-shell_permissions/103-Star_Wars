@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt install tenet
+telnet towel.blinkenlights.nl
