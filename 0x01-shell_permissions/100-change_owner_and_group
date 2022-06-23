@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff 744
+chown vincent:staff /tmp
